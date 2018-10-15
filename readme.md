@@ -1,2 +1,1 @@
-Nguyễn Minh Hiếu
-Bùi Chí Hiếu
+NMH && BCH
